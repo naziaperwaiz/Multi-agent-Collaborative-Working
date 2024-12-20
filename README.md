@@ -16,6 +16,9 @@ Built with **Streamlit**, this application allows users to generate insightful c
 3. **Content Writing:** Generates structured and engaging blog posts with proper citations.
 
 ---
+## Features
+[![Demo Video](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/payactiv.png?text=Demo+Video)](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/demo_multiagent_collaboration.mp4)
+
 
 ## Requirements
 Python 3.9+
