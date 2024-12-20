@@ -9,14 +9,7 @@ This project showcases a multi-agent collaboration workflow, where:
 Built with **Streamlit**, this application allows users to generate insightful content interactively.
 
 ---
-
-## Features
-1. **Web Scraping:** Fetches content from blogs, news, services, and product sections of a website.
-2. **Research Analysis:** Synthesizes reliable insights from scraped data.
-3. **Content Writing:** Generates structured and engaging blog posts with proper citations.
-
----
-## Features
+## Demo Video
 [![Demo Video](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/payactiv.png?text=Demo+Video)](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/demo_multiagent_collaboration.mp4)
 
 
