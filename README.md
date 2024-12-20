@@ -7,9 +7,18 @@ This project showcases a multi-agent collaboration workflow, where:
 - **Agent 3 (Content Writer):** Transforms research findings into an engaging blog post.
 
 Built with **Streamlit**, this application allows users to generate insightful content interactively.
+Further use cases includes:
+*Content Creation:* Automate blogs, articles, reports, and marketing material.
+*Customer Support:* Use agents for real-time query handling, escalation management, and resolution.
+*Finance:* Generate financial insights by combining data analysis and market research agents.
 
 ---
 ## Demo Video
+Use Case-1: Content Creation
+Input: URL of payactiv website.
+Query: How payactiv impacts on people lives?
+Outpur: Agentic AI approach learns from the given website and returns authentic information along with references, it's cool.
+
 [![Demo Video](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/payactiv.png?text=Demo+Video)](https://github.com/naziaperwaiz/Multi-agent-Collaborative-Working/blob/main/demo_multiagent_collaboration.mp4)
 
 
