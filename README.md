@@ -17,6 +17,13 @@ Built with **Streamlit**, this application allows users to generate insightful c
 
 ---
 
+## Requirements
+Python 3.9+
+Streamlit
+OpenAI API key
+BeautifulSoup4 for web scraping
+
+---
 ## How to Run
 
 ### 1. Clone the Repository
@@ -24,6 +31,17 @@ Built with **Streamlit**, this application allows users to generate insightful c
 git clone https://github.com/yourusername/multi-agent-content-generator.git
 cd multi-agent-content-generator
 
-### 2. Run the Application
+# Run the Application
 
 streamlit run app.py
+```
+
+## Example Usage
+Input: Website URL (https://example.com) and Topic (Artificial Intelligence).
+Output:
+A structured blog post.
+Insights derived from the website content.
+Downloadable markdown file.
+
+## License
+This project is licensed under the MIT License.
